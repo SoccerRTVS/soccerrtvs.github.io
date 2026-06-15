@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://soccerrtvs.github.io/sitemap.xml
