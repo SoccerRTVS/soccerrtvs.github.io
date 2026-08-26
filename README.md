@@ -1,3 +1,6 @@
 # Soccer RadioTv Sync website
 
-Official multilingual website and SEO guide pages for Soccer RadioTv Sync.
+Multilingual GitHub Pages site (English, Spanish, French, German and Italian).
+
+Existing indexed routes are preserved. French routes and the Italian guide are new.
+The privacy/support page remains hosted separately at `/SoccerRadioTvSync/`.
